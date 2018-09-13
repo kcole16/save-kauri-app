@@ -1,0 +1,22 @@
+{
+  "name": "save-kauri-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "material-ui-form": "^1.0.0-alpha.25",
+    "openzeppelin-solidity": "^1.12.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-scripts": "1.1.5",
+    "truffle-contract": "^3.0.6",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.36"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
