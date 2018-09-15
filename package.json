@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "fs": "0.0.1-security",
+    "ipfs-api": "^24.0.1",
     "material-ui-form": "^1.0.0-alpha.25",
     "openzeppelin-solidity": "^1.12.0",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
+    "react-map-gl": "^3.3.4",
     "react-scripts": "1.1.5",
     "truffle-contract": "^3.0.6",
     "truffle-hdwallet-provider": "0.0.6",
