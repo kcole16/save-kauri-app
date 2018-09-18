@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactMapGL, {Marker} from 'react-map-gl';
 import marker from './marker.png';
 import markerBlack from './marker-black.png';
-import TokenContract from '../build/contracts/Token.json';
+import TokenContract from '../build_contracts/Token.json';
 
 process.env.MapboxAccessToken = 'pk.eyJ1Ijoia2NvbGUxNiIsImEiOiJjaWc5ZmNoNzEwaW9hdmZsd2lqdTdnMHhpIn0.IgKHGTa-LjzdHd8Y23WzYg'
 

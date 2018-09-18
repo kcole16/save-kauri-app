@@ -11,7 +11,7 @@ class App extends Component {
     super()
     this.handleUpdate = this.handleUpdate.bind(this)
     this.state = {
-      isCompleted: true,
+      isCompleted: false,
       isPending: false,
       txHash: ''
     }
